@@ -1,12 +1,12 @@
-<h1 align="center">👋 ¡Hola! me llamo Juan Manuel</h1>
+<h1 align="center">👋 ¡Hello! my name is Juan Manuel</h1>
 
-🎯 Soy desarrollador de software con experiencia en el diseño, construcción y mantenimiento de aplicaciones web modernas.  
-🔧 Me especializo en desarrollo backend y frontend, creación y consumo de APIs REST, así como en la gestión de bases de datos y control de versiones con Git.  
-🚀 Apasionado por aprender nuevas tecnologías y participar en proyectos desafiantes que generen impacto real.
+🎯 I am a software developer with experience in designing, building and maintaining modern web applications.  
+🔧 I specialize in backend and frontend development, creation and consumption of REST APIs, as well as database management and version control with Git.  
+🚀Passionate about learning new technologies and participating in challenging projects that generate real impact.
 
 ---
 
-### 🧠 Tecnologías y herramientas que manejo
+### 🧠 Technologies and tools I use
 <p align="center"> 
   <!-- Backend --> 
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark" alt="Backend Icons" /> 
@@ -19,14 +19,13 @@
 </p>
 
 
-### 🚀 Proyectos destacados
+### 🚀 Outstanding projects
 
-- 🎒 [Sistema de gestión y control de inventarios](https://github.com/Jumaga11/SGIA-V2.0)  
-  Aplicación web construida en Express.js y Angular, para el control de préstamos e inventarios del almacén de un centro de formación técnico y tecnológico
+- 🎒 [Inventory management and control system](https://github.com/Jumaga11/SGIA-V2.0)  
+  Web application built in Express.js and Angular, for the control of loans and inventories of the warehouse of a technical and technological training center.
 
 - 🧭 [GameApp](https://github.com/Jumaga11/2613934)  
-  Simulador de juegos construido en laravel.
-
+  Game simulator built in laravel.
 ---
 
 ### 📊 GitHub Stats
@@ -37,11 +36,11 @@
 </p>
 ---
 
-### 📫 Contáctame
+### 📫 Contact me at
 
-- ✉️ Email: *[jumagadev@hotmail.com]*  
+- ✉️ Email: *jumagadev@hotmail.com*  
 
 
 ---
 
-> 💡 *Siempre en constante aprendizaje y listo para nuevos retos en el desarrollo de software.*
+> 💡 *Always learning and ready for new challenges in software development.*
