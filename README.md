@@ -31,10 +31,10 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jumaga11&layout=compact&theme=tokyonight)
-
-![Jumaga11's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jumaga11&show_icons=true&theme=tokyonight)
-
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jumaga11&layout=compact&theme=tokyonight" alt="Top Langs" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Jumaga11&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> 
+</p>
 ---
 
 ### 📫 Contáctame
