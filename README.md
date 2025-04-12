@@ -7,8 +7,17 @@
 ---
 
 ### 🧠 Tecnologías y herramientas que manejo
-<p align="center"> <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" title="Laravel" width="40" height="40"/> <!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/> <!-- Bases de datos --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/> <!-- ORM --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" title="Sequelize" width="40" height="40"/> <!-- Otros --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/> </p>
----
+<p align="center"> 
+  <!-- Backend --> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark" alt="Backend Icons" /> 
+  <!-- Frontend --> 
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css&theme=dark" alt="Frontend Icons" /> 
+  <!-- Bases de datos --> 
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Database Icons" />
+  <!-- ORM + Otros --> 
+  <img src="https://skillicons.dev/icons?i=sequelize,git,github,postman&theme=dark" alt="Others Icons" /> 
+</p>
+
 
 ### 🚀 Proyectos destacados
 
@@ -16,7 +25,7 @@
   Aplicación web construida en Express.js y Angular, para el control de préstamos e inventarios del almacén de un centro de formación técnico y tecnológico
 
 - 🧭 [GameApp](https://github.com/Jumaga11/2613934)  
-  Aplicación de juegos contruida en laravel.
+  Simulador de juegos construido en laravel.
 
 ---
 
