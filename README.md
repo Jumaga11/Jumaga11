@@ -1,46 +1,80 @@
-<h1 align="center">👋 ¡Hello! my name is Juan Manuel</h1>
+<h1 align="center">👋 ¡Hola! Mi nombre es Juan Manuel</h1>
 
-🎯 I am a software developer with experience in designing, building and maintaining modern web applications.  
-🔧 I specialize in backend and frontend development, creation and consumption of REST APIs, as well as database management and version control with Git.  
-🚀Passionate about learning new technologies and participating in challenging projects that generate real impact.
-
----
-
-### 🧠 Technologies and tools I use
-<p align="center"> 
-  <!-- Backend --> 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark" alt="Backend Icons" /> 
-  <!-- Frontend --> 
-  <img src="https://skillicons.dev/icons?i=angular,ts,html,css&theme=dark" alt="Frontend Icons" /> 
-  <!-- Bases de datos --> 
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Database Icons" />
-  <!-- ORM + Otros --> 
-  <img src="https://skillicons.dev/icons?i=sequelize,git,github,postman&theme=dark" alt="Others Icons" /> 
+<p align="center">
+  💻 Desarrollador de Software &nbsp; | &nbsp; 🚀 Apasionado por la tecnología &nbsp; | &nbsp; 🧠 Aprendizaje continuo
 </p>
 
-
-### 🚀 Outstanding projects
-
-- 🎒 [Inventory management and control system](https://github.com/Jumaga11/SGIA-V2.0)  
-  Web application built in Express.js and Angular, for the control of loans and inventories of the warehouse of a technical and technological training center.
-
-- 🧭 [GameApp](https://github.com/Jumaga11/2613934)  
-  Game simulator built in laravel.
 ---
 
-### 📊 GitHub Stats
+### 🎯 Sobre mí
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jumaga11&layout=compact&theme=tokyonight" alt="Top Langs" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jumaga11&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> 
+Soy desarrollador de software con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web modernas.
+
+🔧 Me especializo en **desarrollo Backend y Frontend**, creación y consumo de **APIs REST**, gestión de **bases de datos** y control de versiones utilizando **Git**.
+
+🚀 Me apasiona aprender nuevas tecnologías, resolver problemas y participar en proyectos desafiantes que generen un impacto real.
+
+---
+
+### 🧠 Tecnologías y herramientas
+
+#### 🔙 Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark" alt="Tecnologías Backend" />
 </p>
+
+#### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css&theme=dark" alt="Tecnologías Frontend" />
+</p>
+
+#### 🗄️ Bases de datos
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" alt="Bases de datos" />
+</p>
+
+#### 🛠️ Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sequelize,git,github,postman&theme=dark" alt="Herramientas de desarrollo" />
+</p>
+
 ---
 
-### 📫 Contact me at
+### 🚀 Proyectos destacados
 
-- ✉️ Email: *jumagadev@hotmail.com*  
+* 🎒 **[Sistema de Gestión de Inventarios — SGIA](https://github.com/Jumaga11/SGIA-V2.0)**
+  Aplicación web desarrollada con **Express.js y Angular** para la gestión y control de préstamos e inventarios de la bodega de un centro de formación técnica y tecnológica.
 
+* 🧭 **[GameApp](https://github.com/Jumaga11/2613934)**
+  Simulador de videojuegos desarrollado utilizando **Laravel**.
 
 ---
 
-> 💡 *Always learning and ready for new challenges in software development.*
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img 
+    src="./profile/stats.svg" 
+    alt="Estadísticas de GitHub"
+    height="180"
+  />
+  <img 
+    src="./profile/top-langs.svg" 
+    alt="Lenguajes más utilizados"
+    height="180"
+  />
+</p>
+
+---
+
+### 📫 Contacto
+
+* ✉️ **Email:** *[jumagadev@hotmail.com](mailto:jumagadev@hotmail.com)*
+
+---
+
+> 💡 *Siempre aprendiendo, creciendo y preparado para nuevos desafíos en el desarrollo de software.*
