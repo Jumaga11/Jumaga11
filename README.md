@@ -73,7 +73,7 @@ Soy desarrollador de software con experiencia en el diseño, desarrollo y manten
 
 ### 📫 Contacto
 
-* ✉️ **Email:** *[jumagadev@hotmail.com](mailto:jumagadev@hotmail.com)*
+* ✉️ **Email:** *[juanmunozdev@hotmail.com](mailto:juanmunozdev@hotmail.com)*
 
 ---
 
